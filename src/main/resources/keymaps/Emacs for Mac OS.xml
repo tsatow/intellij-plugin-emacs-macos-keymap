@@ -68,6 +68,13 @@
     <keyboard-shortcut first-keystroke="DELETE"/>
     <keyboard-shortcut first-keystroke="control D"/>
   </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="BACK_SPACE"/>
+    <keyboard-shortcut first-keystroke="control H"/>
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="control shift H"/>
+  </action>
   <action id="EditorKillToWordStart">
     <keyboard-shortcut first-keystroke="meta DELETE"/>
   </action>
